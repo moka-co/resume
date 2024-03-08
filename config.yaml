@@ -5,11 +5,11 @@ build:
 params:
   title: Moka's resume
   author: Ciro Ogliastro
-  description: Moka resume
+  description: m0ka's resume
   copyright:
   theme:
     mainTheme: dark
-    showAttribute: true
+    showAttribute: false
     singlePage: true
   favicons:
     use: true
@@ -71,10 +71,13 @@ params:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: B.S. in Computer Science
+      - degree: M.S in Machine Learning & Big Data
+        college: Università degli Studi di Napoli "Parthenope"
+        dates: Feb 2024 
+      - degree: B.S. in Computer Science (109/110)
         college: Università degli Studi di Napoli "Parthenope"
         thesis_title: "Machine Learning for Cross-Site Scripting Attack Detection (experimental thesis)​"
-        dates: September 2019 - January 2024
+        dates: Sept 2019 - Jan 2024
   project:
     title: Projects
     icon: fas fa-project-diagram
