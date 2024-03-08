@@ -3,7 +3,7 @@ languageCode: en-us
 build:
   writeStats: true
 params:
-  title: Moka's resume
+  title: m0ka's resume
   author: Ciro Ogliastro
   description: m0ka's resume
   copyright:
@@ -23,7 +23,7 @@ params:
 
   profile:
     name: "Ciro Ogliastro"
-    tagline: "m0ka"
+    tagline: ""
     location: ""
     photo: fp.jpg
   social:
