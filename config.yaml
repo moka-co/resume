@@ -29,12 +29,12 @@ params:
   social:
     title: Links
     list:
-      - icon: fab fa-github
-        url: "https://github.com/moka-co"
-        title: GitHub
       - icon: fab fa-twitter
         url: "https://twitter.com/m0ka_co"
         title: Twitter
+      - icon: fab fa-github
+        url: "https://github.com/moka-co"
+        title: GitHub
       - icon: fab fa-mastodon
         url: "https://pan.rent/m0ka"
         title: Mastodon
