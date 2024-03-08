@@ -23,7 +23,7 @@ params:
 
   profile:
     name: "Ciro Ogliastro"
-    tagline:
+    tagline: "m0ka"
     location: ""
     photo: fp.jpg
   social:
@@ -35,9 +35,9 @@ params:
       - icon: fab fa-twitter
         url: "https://twitter.com/m0ka_co"
         title: Twitter
-      #- icon: fab fa-orcid
-      #  url: "#"
-      #  title: Orcid
+      - icon: fab fa-mastodon
+        url: "https://pan.rent/m0ka"
+        title: Mastodon
       #- icon: ai ai-google-scholar
       #  url: "#"
       #  title: Google Scholar
@@ -46,7 +46,7 @@ params:
       #  title: ResearchGate
   showInAccordion:
     - item: aboutme
-      expand: true
+      #expand: true
     - item: education
     #- item: publication
     - item: project
@@ -56,7 +56,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: "I'm currently pursuing a Master's degree in Machine Learning & Big Data at Università degli Studi di Napoli \"Parthenope\". \nI'm interested in Artificial Intelligence, Infosecurity and privacy. \nI'm part of \"Etica Digitale\", a divulgative project on technology and human rights."
+    description: "I'm currently pursuing a Master's degree in Machine Learning & Big Data at Università degli Studi di Napoli \"Parthenope\". I'm interested in Artificial Intelligence, Infosecurity and privacy. \n\n\n\nI'm part of \"Etica Digitale\", a divulgative project on technology and human rights."
   experience:
     title: Experiences
     icon: fas fa-briefcase
