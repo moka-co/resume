@@ -29,17 +29,11 @@ params:
   social:
     title: Links
     list:
-      #- icon: fab fa-linkedin-in
-      #  url: "#"
-      #  title: LinkedIn
-      #- icon: fab fa-stack-overflow
-      #  url: "#"
-      #  title: StackOverflow
       - icon: fab fa-github
         url: "https://github.com/moka-co"
         title: GitHub
       - icon: fab fa-twitter
-        url: "#"
+        url: "https://twitter.com/m0ka_co"
         title: Twitter
       #- icon: fab fa-orcid
       #  url: "#"
@@ -54,15 +48,15 @@ params:
     - item: aboutme
       expand: true
     - item: education
-    - item: experience
     #- item: publication
     - item: project
+    - item: experience
     #- item: skill
     #- item: hobby
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: This is a demo of the `aafu` theme. It has `light` and `dark` theme.
+    description: "I'm currently pursuing a Master's degree in Machine Learning & Big Data at Università degli Studi di Napoli \"Parthenope\". I'm interested in Artificial Intelligence, Infosecurity and privacy. I'm part of \"Etica Digitale\", a divulgative project on technology and human rights"
   experience:
     title: Experiences
     icon: fas fa-briefcase
