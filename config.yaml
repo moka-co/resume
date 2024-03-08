@@ -74,7 +74,7 @@ params:
       - degree: M.S in Machine Learning & Big Data
         college: Università degli Studi di Napoli "Parthenope"
         dates: Feb 2024 
-      - degree: B.S. in Computer Science (109/110)
+      - degree: "B.S. in Computer Science (final grade: 109/110)"
         college: Università degli Studi di Napoli "Parthenope"
         thesis_title: "Machine Learning for Cross-Site Scripting Attack Detection (experimental thesis)​"
         dates: Sept 2019 - Jan 2024
