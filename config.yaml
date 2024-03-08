@@ -56,7 +56,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: "I'm currently pursuing a Master's degree in Machine Learning & Big Data at Università degli Studi di Napoli \"Parthenope\". I'm interested in Artificial Intelligence, Infosecurity and privacy. I'm part of \"Etica Digitale\", a divulgative project on technology and human rights"
+    description: "I'm currently pursuing a Master's degree in Machine Learning & Big Data at Università degli Studi di Napoli \"Parthenope\". \nI'm interested in Artificial Intelligence, Infosecurity and privacy. \nI'm part of \"Etica Digitale\", a divulgative project on technology and human rights."
   experience:
     title: Experiences
     icon: fas fa-briefcase
