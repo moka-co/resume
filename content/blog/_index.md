@@ -1,4 +1,4 @@
 ---
-title: "aafu theme"
+title: ""
 weight: 100
 ---
